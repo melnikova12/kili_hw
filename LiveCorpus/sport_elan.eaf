@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-16T00:51:16+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/melnikovaarina/Desktop/kili/sport_.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./kili/sport_.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:fc0641ae-28e3-4d31-a088-923a5d60289b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">38</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="28190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="52280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="52881"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="72391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="72631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="76191"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="76811"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="80412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="81401"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="101392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="101832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="103182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="103287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="119787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="120577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="124417"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="125010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="152350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="152400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="154990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="155785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="161915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="161955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="177705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="177978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="184008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="185463"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="189183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="189213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="202383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="203708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="210898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="211498"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="220008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="220448"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="224498"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="224513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="235003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="235043"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="248783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="248983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="267533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="267538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="270348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="270998"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="278198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="278210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="281890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="283180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="290000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="290690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="295210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="296090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="296540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="296550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="297610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="298020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="298390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="298990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="301750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="301980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="303230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="303690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="308210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="308240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="316670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="316680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="317560"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Владимир@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Ну, если говорить  о том, чём я сам непосредственно занимаюсь это так называемая классическая качалка или бодибилдинг, он же культуризм.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Эээ, стал увлекаться я им году в девяносто втором, девяносто третьем, познакомил впервые меня  с спортзалом мой одноклассник, у него папа занимался тяжелой атлетикой, это не бодибилдинг, это другой немножко вид спорта, классический спорт, который был очень сильно популярен в советском союзе.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>И вот меня и еще пару моих товарищей друг привел в качалку и с тех пор с разной цикличностью я хожу в зал, даже преодолел такую манящую планку для мужчин, как сто килограмм в жиме лежа. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Ну так как я поклонник классического бодибилдинга, достаточно сейчас очень много ругаемого, так как вообще и спорт индустрия очень сильно шагает вперед, появились многие различные виды - кроссфит и все прочее, и сейчас просто классически качаться уже  не интересно, скучно, сложно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Не модно, даа, поэтому мне сложно судить, я в силу уже давнишнего  своего увлечения придерживаюсь этой линии, хотя за последнее время вот добавляю некоторые новые элементами, новые занятия посещаю.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Что касаемо культуризма абсолютно сам все, да, я ээм сейчас примерно занимаюсь по ощущениям внутренним организма, есть такая, есть такое направление тренировок, когда человек, давно занимающийся, не придерживается не строго никаких программ, то есть он примерно знает разделение своих тренировок и занимается по ощущениям. 
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Это касаемо количества подходов, количества повторений.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Ну я думаю, что  на втором месте это футбол, но футбол естественно  в качестве просто в качестве зрителя, в качестве поклонника футбольного клуба "Спартак" я ходил на матчи когда "Спартак" играл в Лужниках, сейчас он переехал на новый стадион, на новом стадионе я еще не был.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>В Лужники ходил очень часто, где-то  га… года с девяносто пятого  являюсь достаточно крепким фанатом.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Нуу, зарубежные команды сравнить сс как бы сс переживаниями за Спартак сложно, но зарубежный футбол естественно смотрю, так как он по качеству, конечно, превосходит наш российский</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Был на одном единственном матче, выставочный матч, это было в Испании, в Барселоне, на стадионе Ноу Камп.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Ну я первый раз был на стадионе, конечно си…  впечатления были сильные, я первый раз видел живой состав Барселоны, перый раз был на таком стадионе, конечно сильные впечатления.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Ну, культуризм разные виды давал миру многих людей, в том числе самый известный из них, естественно это Арнольд Шварцнеггер - человек, проложивший собственными руками, ногами путь от простого австрийского мальчика до всемирно известной кино-звезды.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Ну он мотивировал многих российских юношей того времени и периода, как раз когда я пошел в качалку, в том числе и меня.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Плакаты, фотографии висели на каждом углу в Москве и в каждой квартире.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Ну когда мне было ээ 17-18 лет каждый был</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>профессионалом</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>а сейчас кончено уже поздно заниматься этим, хотя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Хотя, хотя прецеденты, прецеденты в мире есть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>Есть категории, называется мастера, там от 40 до 55, до 60</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Интервьюер@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Ммм,давай поговорим о спорте,вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>А именно,расскажи а пожалуйста о своем любимом виде спорта, вот, и почему именно этот вид спорта, а не другой, что тебе в нем нравится?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Угу,что тебе нравится в культуризме?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Может какие-то, не знаю, мотивация или что.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Не модно?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Ты сам в интернете смотришь какие-то занятия или упражнения, да?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Угу, а что по поводу других видов спорта - какие тебе нравятся, может быть?
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Угу, а зарубежные команды может быть какие любимые?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Ааа был ли на каких-то чемпи… чемпионатах, ну не чемпионатах, а именно матчах зарубежных команд?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Сильные впечатления были или все-таки не сравнить со Спартаком?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Ага, понятно. Ааа давай вернемся, наверное, к культуризму - есть ли какой-то может быть  человек, который тебя мотивирует этим заниматься или там пример какой-то?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>Ну то есть получается он тебя мотивирует этим заниматься?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>А хотел бы ты этим заниматься наверное про…, можно ли так да сказать, профессионально этим заниматься культуризмом?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>Ну ты бы хотел наверное, да?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Угу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
